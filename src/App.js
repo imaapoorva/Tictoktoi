@@ -88,6 +88,7 @@ export default function Game() {
     </div>
   );
 }
+/* function to calculate suares */
 function calculateWinner(squares) {
   const lines = [
     [0, 1, 2],
